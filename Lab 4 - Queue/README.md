@@ -1,14 +1,5 @@
 # 🧩 Task 1: Apply and Test the Implementation of Queue Using Array
 
-## 🎯 Objective
-In this task, you will:
-- Apply the **basic implementation of a Queue** using arrays.  
-- Test and analyze the fundamental queue operations such as **enqueue**, **dequeue**, and **peek**.
-
-🕒 **Estimated Time:** 60 Minutes
-
----
-
 ## 📖 Definition of Queue
 A **queue** is a linear data structure that follows the **FIFO (First-In, First-Out)** principle.  
 This means that the first element inserted into the queue is the first one to be removed.
@@ -343,3 +334,4 @@ After operations: CircularQueue [kuat, tekad, rajin, usaha, berjaya, konsisten, 
 - Generics allow the queue to handle any data type (e.g., String, Integer).
 
 - Exception handling ensures robust code execution.
+
